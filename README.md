@@ -1,6 +1,6 @@
 # personal-Eshop-back-end-node-
  
 ***********
-# npm install
+* npm install
 ***********
-# npm start or npm node
+* npm start or npm node
