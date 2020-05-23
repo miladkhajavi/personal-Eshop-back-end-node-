@@ -1,0 +1,40 @@
+{
+  "name": "initial-node-js-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./server",
+    "node": "node ./server"
+  },
+  "dependencies": {
+    "app-module-path": "^2.2.0",
+    "auto-bind": "^4.0.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "chalk": "^4.0.0",
+    "connect-mongo": "^3.2.0",
+    "cookie-parser": "~1.4.4",
+    "daily-log": "^1.0.2",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "express": "~4.16.1",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.4.1",
+    "jalali-moment": "^3.3.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.5.6",
+    "mongoose": "^5.9.9",
+    "mongoose-paginate": "^5.0.3",
+    "morgan": "~1.9.1",
+    "multer": "^1.4.2",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "path": "^0.12.7",
+    "sprintf": "^0.1.5",
+    "useragent": "^2.3.0",
+    "uuid-v4": "^0.1.0",
+    "validator": "^13.0.0",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.4.2"
+  }
+}
